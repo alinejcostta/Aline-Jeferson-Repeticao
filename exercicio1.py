@@ -1,7 +1,7 @@
 
-#QUESTÃO 1
+# QUESTÃO 1
 
-#1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+# 1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
 quant_notas = int(input("Digite quantas notas deseja inserir: "))
 soma = 0
