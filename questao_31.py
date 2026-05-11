@@ -8,9 +8,9 @@
 # Produto 1: R$ 2.20
 # Produto 2: R$ 5.80
 # Produto 3: R$ 0
-# Total: R$ 9.00
+# Total: R$ 8.00
 # Dinheiro: R$ 20.00
-# Troco: R$ 11.00
+# Troco: R$ 12.00
 
 
 soma = 0

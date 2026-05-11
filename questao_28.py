@@ -13,4 +13,4 @@ for i in range(1, qtd_cds+1):
 
 media = soma/qtd_cds
 
-print(f"Você possui {qtd_cds} CDs com um valor total investido de R${soma:.2f} e valor médio gasto de R$ {media:.2f}")
+print(f"Você possui {qtd_cds} CDs com um valor total investido de R$ {soma:.2f} e valor médio gasto de R$ {media:.2f}.")

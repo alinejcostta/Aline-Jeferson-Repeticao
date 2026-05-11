@@ -15,10 +15,10 @@ for i in range(pessoas):
 media = soma/pessoas
 
 if media > 0 or media <= 25:
-    print(f"A turma é jovem! Sua média de idade é {media}")
+    print(f"A turma é jovem! Sua média de idade é {media:.1f}")
 elif media > 26 or media <= 60:
-    print (f"A turma é adulta! Sua média de idade é {media}")
+    print (f"A turma é adulta! Sua média de idade é {media:.1f}")
 elif media > 60:
-    print(f"A turma é idosa! Sua média de idade é {media}")
+    print(f"A turma é idosa! Sua média de idade é {media:.1f}")
 else:
     print("Houve algum erro durante o preenchimento, tente novamente.")

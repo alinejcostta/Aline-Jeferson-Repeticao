@@ -30,7 +30,7 @@ media_temperatura = soma_temperaturas/qtd_temperaturas
 
 print(f"""
 --- Dados do Dia ---
-    Menor temperatura: {menor_temperatura}°C
-    Maior temperatura: {maior_temperatura}°C
-    Média diária: {media_temperatura}°C
+Menor temperatura: {menor_temperatura}°C
+Maior temperatura: {maior_temperatura}°C
+Média do dia: {media_temperatura}°C
 """)

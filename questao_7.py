@@ -3,6 +3,7 @@
 
 # 7. Faça um programa que leia 5 números e informe o maior número.
 
+
 maior = None
 
 for i in range(5):
